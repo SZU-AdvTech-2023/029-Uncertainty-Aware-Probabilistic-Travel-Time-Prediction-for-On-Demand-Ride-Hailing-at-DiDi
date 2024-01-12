@@ -1,0 +1,7 @@
+@inproceedings{REPO029,
+    author = "Liu, Hao and Jiang, Wenzhao and Liu, Shui and Chen, Xi",
+    booktitle = "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    pages = "4516--4526",
+    title = "{Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi}",
+    year = "2023"
+}
